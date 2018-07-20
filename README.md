@@ -1,21 +1,21 @@
 # GSS-mtig-18-19
 
-Introducción a las Smart Cities
-Conceptos básicos de Geoservicios
-Conceptos sensores
-Conceptos Open data
-Utilización de servicios Open data
-Servicios realtime Open data
-Herramientas de visualización Opendata
-Ejemplo servicio bicing Barcelona (se podría adaptar a vector tiles)
-Servicios realtime sensores
-Ejemplo sensores port Barcelona
-Ejemplo Sentilo ACA
-Geoservicios realtime
-Herramientas de visualización geoservicios
-Ejemplo Isócronas (cambiar por )
-Ejemplo Creación de geoservicio realtime para compartir ubicación del usuario
-Ejemplo GTFS (Google transit)
+* Introducción a las Smart Cities
+* Conceptos básicos de Geoservicios
+* Conceptos sensores
+* Conceptos Open data
+* Utilización de servicios Open data
+* Servicios realtime Open data
+* Herramientas de visualización Opendata
+* Ejemplo servicio bicing Barcelona (se podría adaptar a vector tiles)
+* Servicios realtime sensores
+* Ejemplo sensores port Barcelona
+* Ejemplo Sentilo ACA
+* Geoservicios realtime
+* Herramientas de visualización geoservicios
+* Ejemplo Isócronas (cambiar por )
+* Ejemplo Creación de geoservicio realtime para compartir ubicación del usuario
+* Ejemplo GTFS (Google transit)
 
 ##TODO
 
