@@ -17,7 +17,7 @@
 * Ejemplo Creación de geoservicio realtime para compartir ubicación del usuario
 * Ejemplo GTFS (Google transit)
 
-##TODO
+## TODO
 
 * la parte de teoría de Victor pasarla a este formato
 * clonar el repo de GSS-mtig-17-18
