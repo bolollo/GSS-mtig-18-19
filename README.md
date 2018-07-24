@@ -7,6 +7,7 @@
 * Utilización de servicios Open data
 * Servicios realtime Open data
 * Herramientas de visualización Opendata
+* Introducción a VectorTiles
 * Ejemplo servicio bicing Barcelona (se podría adaptar a vector tiles)
 * Servicios realtime sensores
 * Ejemplo sensores port Barcelona
