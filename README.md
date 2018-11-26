@@ -6,16 +6,16 @@
 * Conceptos sensores
 * Conceptos y servicios Open data
 
-* Servicios realtime Open data
 * Herramientas de visualización de datos
 * Conceptos básicos de Geoservicios
+* Servicios realtime Open data
 * Ejemplo servicio bicing Barcelona (se podría adaptar a vector tiles)
 * Servicios realtime sensores
 * Ejemplo sensores port Barcelona
 * Ejemplo Sentilo ACA
 * Geoservicios realtime
 * Herramientas de visualización geoservicios
-* Ejemplo Isócronas (cambiar por )
+* Ejemplo Isócronas (cambiar por https://openrouteservice.org o https://graphhopper.com)
 * Ejemplo Creación de geoservicio realtime para compartir ubicación del usuario
 * Ejemplo GTFS (Google transit)
 
