@@ -15,6 +15,7 @@
 * Ejemplo Sentilo ACA
 * Geoservicios realtime
 * Herramientas de visualización geoservicios
+* Ejemplo de Geocodificador
 * Ejemplo Isócronas (cambiar por https://openrouteservice.org o https://graphhopper.com)
 * Ejemplo Creación de geoservicio realtime para compartir ubicación del usuario
 * Ejemplo GTFS (Google transit)
