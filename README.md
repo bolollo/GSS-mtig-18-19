@@ -1,13 +1,14 @@
 # GSS-mtig-18-19
 
 * Introducción a las Smart Cities
-* Conceptos básicos de Geoservicios
+* Conceptos VectorTiles
+* Ejemplo Kepler.gl
 * Conceptos sensores
-* Conceptos Open data
-* Utilización de servicios Open data
+* Conceptos y servicios Open data
+
 * Servicios realtime Open data
-* Herramientas de visualización Opendata
-* Introducción a VectorTiles
+* Herramientas de visualización de datos
+* Conceptos básicos de Geoservicios
 * Ejemplo servicio bicing Barcelona (se podría adaptar a vector tiles)
 * Servicios realtime sensores
 * Ejemplo sensores port Barcelona
