@@ -16,6 +16,7 @@ Materiales:
    conceptos-geoservicios/conceptos_geoservicios
    consideraciones-servicios-opendata/consideraciones-servicios-opendata
    ejemplo-servicio-bicing-bcn/ejemplo-servicio-bicing-bcn
+   ejemplo-servicio-bicing-bcn-vt/ejemplo-servicio-bicing-bcn-vt
 
 
    servicios-realtime-sensores/servicios-realtime-sensores

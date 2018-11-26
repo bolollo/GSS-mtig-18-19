@@ -101,7 +101,7 @@ Creación de un visor
 Creación del proxy
 ------------------
 
-#. Instalar Node.js [#]_. Descargar la última versión LTS (en este momento es la 8.9.1 LTS) y lo instalaremos con las opciones por defecto. Una vez instalado el Node abrir la consola para verificar que se ha instalado correctamente. Escribir ::
+#. Instalar Node.js [#]_. Descargar la última versión LTS (en este momento es la 10.13.0 LTS) y lo instalaremos con las opciones por defecto. Una vez instalado el Node abrir la consola para verificar que se ha instalado correctamente. Escribir ::
 
 		node -v
 
@@ -130,7 +130,6 @@ Creación del proxy
 		var httpProxy = require('http-proxy');
 		var apiProxy = httpProxy.createProxyServer();
 		var serverBicing = 'http://wservice.viabicing.cat/v2/stations';
-
 
 		app.use(express.static('public'));
 		 
@@ -204,7 +203,7 @@ Creación del proxy
 	        interval: 3 * 1000
 	    }).addTo(map);
 
-#. Recargar la aplicación y veremos los puntos de las estaciones de bicing. Si vamos a la pestaña de red (network) en la consola de desarrollador del navegador podremos ver que cada 3 segundos se hace una llamada a nuetro proxy.
+#. Recargar la aplicación y veremos los puntos de las estaciones de bicing. Si vamos a la pestaña de red (network) en la consola de desarrollador del navegador podremos ver que cada 3 segundos se hace una llamada a nuestro proxy.
 
 #. Crear un popup para ver la información de la estación al seleccionarla. Escribir justo después de donde definimos el intervalo ::
 
