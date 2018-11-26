@@ -27,3 +27,11 @@
 * eliminar todo lo referente a mapzen
 * ver si el geocodificador del ICGC está en abierto y hacer un ejemplo.
 * cambiar algunos ejemplos y utilizar mapbox-gl y una base de vector tiles
+
+
+La documentación se puede ver en: https://bolollo.github.io/GSS-mtig-18-19/index.html
+
+
+Para generar la documentación ejecutar
+	make clean html 
+
