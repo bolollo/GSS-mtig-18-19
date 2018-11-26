@@ -1,16 +1,16 @@
-****************************
-Servicios realtime Open data
-****************************
+*****************************************
+Consideraciones sobre servicios Open data
+*****************************************
 
 .. note::
 
 	=================  ====================================================
-	Fecha              Autores
+	Fecha               Autores
 	=================  ====================================================
-	 8 Noviembre 2017    * Wladimir Szczerban
+	26 Noviembre 2018   * Wladimir Szczerban
 	=================  ====================================================
 
-	©2017 Wladimir Szczerban
+	©2018 Wladimir Szczerban
 
   Excepto donde quede reflejado de otra manera, la presente documentación se halla bajo licencia: Creative Commons (Creative Commons - Attribution - Share Alike: http://creativecommons.org/licenses/by-sa/3.0/deed.es)
 
@@ -36,8 +36,8 @@ https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php
 
 
 
-Ejemplo de malas prácticas
---------------------------
+Ejemplo de "malas" prácticas
+----------------------------
 
 En el servicio OpenData de la AEMET http://www.aemet.es/es/datos_abiertos/AEMET_OpenData observamos que nos solicitan una API Key para acceder a los servicios y para obtenerla hay que dar una dirección de email y resolver un captcha, lo que constituye una barrera de entrada.  
 

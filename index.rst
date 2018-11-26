@@ -7,15 +7,14 @@ Materiales:
    :maxdepth: 1
 
    introduccion-smart-cities/introduccion-smart-cities
-   conceptos-geoservicios/conceptos_geoservicios
    conceptos-sensores/conceptos-sensores
    conceptos-opendata/conceptos-opendata
    utilizacion-servicio-opendata/utilizacion-servicio-opendata
 
 
-
-   servicios-realtime-opendata/servicios-realtime-opendata
-   herramientas-visualizacion-opendata/herramientas-visualizacion-opendata
+   herramientas-visualizacion-datos/herramientas-visualizacion-datos
+   conceptos-geoservicios/conceptos_geoservicios
+   consideraciones-servicios-opendata/consideraciones-servicios-opendata
    ejemplo-servicio-bicing-bcn/ejemplo-servicio-bicing-bcn
 
 
