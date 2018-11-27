@@ -19,7 +19,7 @@ Materiales:
    ejemplo-servicio-bicing-bcn-vt/ejemplo-servicio-bicing-bcn-vt
 
 
-   servicios-realtime-sensores/servicios-realtime-sensores
+   consideraciones-servicios-sensores/consideraciones-servicios-sensores
    ejemplo-sensores-port-bcn/ejemplo-sensores-port-bcn
    ejemplo-sentilo-aca/ejemplo-sentilo-aca
    
